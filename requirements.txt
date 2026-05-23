@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+celery
+redis
+prometheus-client
+transformers
+torch --index-url https://download.pytorch.org/whl/cpu
+python-dotenv
+sqlalchemy
+psycopg2-binary
+prometheus-fastapi-instrumentator
+loguru
+alembic
